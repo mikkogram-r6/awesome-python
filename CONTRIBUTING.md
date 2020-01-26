@@ -17,3 +17,4 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
+Bitte sende Email an: michaeldreher1988@gmail.com
